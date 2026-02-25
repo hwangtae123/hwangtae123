@@ -1,5 +1,5 @@
 <!-- 프로필 헤더 -->
-<h1 align="center">Hi, I'm <YOUR_NAME> 👋</h1>
+<h1 align="center">Hi, I'm TaeYeon Hwang 👋</h1>
 <p align="center">
   <b><ONE_LINE_INTRO></b><br/>
   <sub><INTERESTS / KEYWORDS></sub>
