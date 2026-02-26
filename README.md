@@ -14,8 +14,8 @@
 ---
 
 ## About
-- 🎓 <SCHOOL / MAJOR>
-- 🔭 지금 하는 것: <CURRENT_PROJECT>
+- 🎓 경기대학교 / AI컴퓨터공학부 컴퓨터공학학과
+- 🔭 지금 하는 것: 재학중 (6학기)
 - 🌱 배우는 것: <LEARNING>
 - 🎯 관심: <INTEREST_A>, <INTEREST_B>
 - 🧩 강점: <STRENGTHS>
