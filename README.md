@@ -27,12 +27,10 @@
 **Languages**
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
 
 **Frameworks / Tools**
 ![Spring](https://img.shields.io/badge/Spring-000?style=flat&logo=spring)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat&logo=fastapi)
-![React](https://img.shields.io/badge/React-000?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql)
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
