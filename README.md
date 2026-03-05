@@ -46,9 +46,12 @@
 
 ## Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hwangtae123&show_icons=true&hide_title=true&rank_icon=github&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwangtae123&layout=compact&theme=dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hwangtae123&theme=github_dark" width="100%"/>
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hwangtae123&theme=dark&hide_border=true" height="150"/>
+</p>
+
 
 ---
 
