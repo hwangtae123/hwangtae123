@@ -1,14 +1,13 @@
 <!-- 프로필 헤더 -->
 <h1 align="center">Hi, I'm TaeYeon Hwang 👋</h1>
 <p align="center">
-  <b><ONE_LINE_INTRO></b><br/>
-  <sub><INTERESTS / KEYWORDS></sub>
+  <b>Backend Developer · AI Engineer</b><br/>
+  <sub>Spring · FastAPI · Docker · MySQL · Python · AI</sub>
 </p>
-
 <p align="center">
-  <a href="<BLOG_URL>">Blog</a> •
-  <a href="<PORTFOLIO_URL>">Portfolio</a> •
-  <a href="mailto:<EMAIL>">Email</a>
+  <a href="#">Blog</a> •
+  <a href="#">Portfolio</a> •
+  <a href="mailto:hwangtae12@email.com">Email</a>
 </p>
 
 ---
@@ -16,21 +15,22 @@
 ## About
 - 🎓 경기대학교 / AI컴퓨터공학부 컴퓨터공학학과
 - 🔭 지금 하는 것: 재학중 (6학기)
-- 🌱 배우는 것: <LEARNING>
-- 🎯 관심: <INTEREST_A>, <INTEREST_B>
-- 🧩 강점: <STRENGTHS>
+- 🌱 배우는 것: Spring Boot, FastAPI, Docker
+- 🎯 관심: 백엔드 개발, AI 서비스
+- 🧩 강점: 문제 해결 능력, 협업
 
 ---
 
 ## Tech Stack
-<!-- 배지는 취향껏 줄이기 -->
 **Languages**
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk)
 
-**Frameworks / Tools**
-![Spring](https://img.shields.io/badge/Spring-000?style=flat&logo=spring)
+**Frameworks**
+![Spring](https://img.shields.io/badge/Spring_Boot-000?style=flat&logo=spring)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat&logo=fastapi)
+
+**Tools & Infra**
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql)
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
@@ -38,20 +38,19 @@
 ---
 
 ## Highlights
-- ✅ <ACHIEVEMENT_1>
-- ✅ <ACHIEVEMENT_2>
-- ✅ <ACHIEVEMENT_3>
+- ✅ 백엔드 프로젝트 경험 (Spring Boot / FastAPI)
+- ✅ AI 서비스 개발 관심 및 학습 중
+- ✅ 팀 협업 프로젝트 참여 경험
 
 ---
 
-## Stats (옵션: 외부 위젯)
+## Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hwangtae12&show_icons=true&hide_title=true&rank_icon=github&theme=dark&bg_color=161b22&border_color=21262d" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwangtae12&layout=compact&theme=dark&bg_color=161b22&border_color=21262d" height="150"/>
 </p>
 
 ---
 
 ## Contact
-- Email: <EMAIL>
-- Blog: <BLOG_URL>
+- 📧 Email: ty5321@naver.com
