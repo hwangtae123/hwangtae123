@@ -58,11 +58,11 @@
 ## 🏢 Organizations
 
 <p align="left">
-
 <a href="https://github.com/SeSAC-PROJ">
-<img src="https://github.com/SeSAC-PROJ.png" width="60"/>
+<img src="https://github.com/SeSAC-PROJ.png" width="50"/>
 </a>
-
+<br>
+<b>SeSAC-PROJ</b>
 </p>
 
 ---
