@@ -55,5 +55,17 @@
 
 ---
 
+## 🏢 Organizations
+
+<p align="left">
+
+<a href="https://github.com/SeSAC-PROJ">
+<img src="https://github.com/SeSAC-PROJ.png" width="60"/>
+</a>
+
+</p>
+
+---
+
 ## Contact
 - 📧 Email: ty5321@naver.com
