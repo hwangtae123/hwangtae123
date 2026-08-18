@@ -116,7 +116,7 @@ BFF와 Core를 분리한 백엔드 아키텍처를 설계하고, JWT · Device T
 | 기초캡스톤디자인 은상 | 경기대학교 SW중심대학사업단 | 2025.07 |
 | 우수 발표 논문상 | 한국인공지능융합기술학회 | 2025.05 |
 
-**Certifications** 정보처리기사 · SQLD · 리눅스마스터 2급 · TOPCIT 수준 4
+**Certifications** 정보처리기사 · SQLD · 리눅스마스터 2급 · TOPCIT 수준 4 · TOEIC 785
 
 ---
 
